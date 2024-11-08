@@ -1,4 +1,5 @@
 # INSTALL COMMAND
+    composer install
     npm install
     npm install scss
     npm install -D sass-embedded
